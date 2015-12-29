@@ -1,9 +1,0 @@
-{
-    "name": "string-convert",
-    "description": "String convertions",
-    "repos": "https://github.com/akiran/string-convert",
-    "main": "index.js",
-    "tag": "master",
-    "reposType": "npm",
-    "version": "0.2.1"
-}
